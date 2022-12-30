@@ -1,0 +1,19 @@
+/************************
+*
+* Author: Jade Ivan AKA BanTech-Dev/
+* Date: 12.30.22
+* Time 9:40Pm
+*
+***********************/
+
+p {
+	font-size: 18px;
+	color: rgb(14, 179, 255);
+}
+#header p {
+	font-size: 24px;
+}
+/* Style all header tags */
+h1 {
+	font-size: 44px;
+}

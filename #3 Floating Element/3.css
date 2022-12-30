@@ -1,0 +1,21 @@
+
+p {
+	position: static;
+}
+.blue {
+	background: blue;
+	float: right;
+}
+.red {
+	background: red;
+	float: right;
+}
+.green {
+	background: green;
+	float: right;
+}
+.box {
+	display: inline;
+	height: 100px;
+	width: 100px;
+}
